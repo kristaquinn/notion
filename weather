@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/43d46n80d52/waterloo/" data-label_1="WATERLOO" data-label_2="WEATHER" data-font="Courier New" data-days="5" data-theme="beige" data-basecolor="#f4eddb" data-shadow="rgba(189, 57, 57, 0)" data-accent="#f1e7c7" data-textcolor="#b85200" data-highcolor="#b65432" data-lowcolor="#b65432" data-suncolor="#f1bd56" data-mooncolor="#6c7483" data-cloudcolor="#d2aa51" data-raincolor="#6e6c83" data-snowcolor="#6e6c83" >WATERLOO WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
